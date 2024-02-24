@@ -46,6 +46,9 @@ A nota da primeira unidade será dada por meio de uma única avaliação escrita
 
 ### Execução do Cronograma
 
+- 26/01: Apresentação da Disciplina
+  - [Slides](https://docs.google.com/presentation/d/1AZZJ4FgXjbG0zqvHXcGzBIvDypms1mMA/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
+
 ## Projeto
 ### Objetivo geral
 
