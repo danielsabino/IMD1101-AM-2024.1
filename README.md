@@ -80,7 +80,7 @@ O trabalho deve ser apresentado ao final da disciplina.
 
 ## Comunicação
 
-A principal ferramenta de comunicação utilizada durante o curso da disciplina será o servidor no Discord. Utilize esse [convite](https://discord.gg/hwErC5hNZ3) para acessar.
+A principal ferramenta de comunicação utilizada durante o curso da disciplina será o servidor no Discord. Utilize esse [convite](https://discord.gg/mTwaebgEGz) para acessar.
 
 Vamos também utilizar o SIGAA, mas o Discord será para comunicações maiis rápidas entre os membros da turma.
 
