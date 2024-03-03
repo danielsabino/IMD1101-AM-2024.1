@@ -48,8 +48,10 @@ A nota da primeira unidade será dada por meio de uma única avaliação escrita
 
 - 26/02: Apresentação da Disciplina
   - [Slides](https://docs.google.com/presentation/d/1AZZJ4FgXjbG0zqvHXcGzBIvDypms1mMA/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
-- 28/02: Introdução ao Aprendizado de Máquina
+- 28/02: Visão Geral
   - [Slides](https://docs.google.com/presentation/d/11OgsAb_58439KXHUQQD9SjVwxay-9TmR/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)  
+- 04/03: Conceitos Iniciais e Intodução ao Aprendizado de Máquina
+  - [Slides](https://docs.google.com/presentation/d/1Aq32tLEMKj_W2Rjssrtl4UTNXkvTBAEe/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
 
 ## Projeto
 ### Objetivo geral
