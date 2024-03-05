@@ -52,7 +52,8 @@ A nota da primeira unidade será dada por meio de uma única avaliação escrita
   - [Slides](https://docs.google.com/presentation/d/11OgsAb_58439KXHUQQD9SjVwxay-9TmR/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)  
 - 04/03: Conceitos Iniciais e Intodução ao Aprendizado de Máquina
   - [Slides](https://docs.google.com/presentation/d/1Aq32tLEMKj_W2Rjssrtl4UTNXkvTBAEe/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
-
+- 06/03: Caracterização, Exploração e Transformação de Dados
+  - [Slides](https://docs.google.com/presentation/d/1AsBug0s0CljoMrRcd-t7Q42u-P5KmO9A/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
 ## Projeto
 ### Objetivo geral
 
