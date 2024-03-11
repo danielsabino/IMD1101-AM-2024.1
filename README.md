@@ -54,6 +54,11 @@ A nota da primeira unidade será dada por meio de uma única avaliação escrita
   - [Slides](https://docs.google.com/presentation/d/1Aq32tLEMKj_W2Rjssrtl4UTNXkvTBAEe/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
 - 06/03: Caracterização, Exploração e Transformação de Dados
   - [Slides](https://docs.google.com/presentation/d/1AsBug0s0CljoMrRcd-t7Q42u-P5KmO9A/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
+- 11/03: Tratamento e Visualização de Dados
+  - [Slides](https://docs.google.com/presentation/d/1AsjqmM-ZU72ccD3Isw8tMwtB8dOfDv_N/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
+- 13/03: Tratamento e Visualização de Dados
+  - [Código](https://drive.google.com/file/d/1Avoed3_sf_5DBIIELZ5ddQLEJmEoVb-b/view?usp=sharing)
+  
 ## Projeto
 ### Objetivo geral
 
