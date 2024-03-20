@@ -60,6 +60,8 @@ A nota da primeira unidade será dada por meio de uma única avaliação escrita
   - [Código](https://drive.google.com/file/d/1Avoed3_sf_5DBIIELZ5ddQLEJmEoVb-b/view?usp=sharing)
   - [Pandas Crash Course](https://colab.research.google.com/drive/1vYkQcTERigrd-IfHKAPUNK3gfOfL6m7k?usp=sharing)
 - 20/03: Introdução ao Aprendizado Supervisionado
+  - [Slides](https://docs.google.com/presentation/d/1AzXyU0ToEsrFUu9UOhnsiFJKucfHe20V/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
+  - [Código](https://colab.research.google.com/drive/11vfcm-WV3guQTjdpJRR_3HV3aZrJ8lLl?usp=sharing)
   
 ## Projeto
 ### Objetivo geral
