@@ -62,7 +62,9 @@ A nota da primeira unidade será dada por meio de uma única avaliação escrita
 - 20/03: Introdução ao Aprendizado Supervisionado
   - [Slides](https://docs.google.com/presentation/d/1AzXyU0ToEsrFUu9UOhnsiFJKucfHe20V/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
   - [Código](https://colab.research.google.com/drive/11vfcm-WV3guQTjdpJRR_3HV3aZrJ8lLl?usp=sharing)
-  
+- 25/03: k-NN
+  - [Slides](https://docs.google.com/presentation/d/1B4LboiYOlJSjgiC4t1kwRpyYd7K90Fci/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
+  - [Código](https://colab.research.google.com/drive/1TO2J2hl8p0tZ8eiuHIJbL-3e3AyoBs5k?usp=sharing)
 ## Projeto
 ### Objetivo geral
 
