@@ -65,6 +65,10 @@ A nota da primeira unidade será dada por meio de uma única avaliação escrita
 - 25/03: k-NN
   - [Slides](https://docs.google.com/presentation/d/1B4LboiYOlJSjgiC4t1kwRpyYd7K90Fci/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
   - [Código](https://colab.research.google.com/drive/1TO2J2hl8p0tZ8eiuHIJbL-3e3AyoBs5k?usp=sharing)
+- 27/03: Árvores de Decisão
+  -[Slides](https://docs.google.com/presentation/d/1BSYdduxACkyK9ACI17GWz9whVHihWAbC/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
+  -[Código](https://colab.research.google.com/drive/1Aus2FO3nhh1XOogk8SxGVFkR6MuTRxOy?usp=sharing)
+ 
 ## Projeto
 ### Objetivo geral
 
