@@ -68,8 +68,8 @@ A nota da primeira unidade será dada por meio de uma única avaliação escrita
 - 27/03: Árvores de Decisão
   - [Slides](https://docs.google.com/presentation/d/1BSYdduxACkyK9ACI17GWz9whVHihWAbC/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
   - [Código](https://colab.research.google.com/drive/1Aus2FO3nhh1XOogk8SxGVFkR6MuTRxOy?usp=sharing)
-  - 03/04: Definição dos grupos do projeto final
-    - [Grupos](https://docs.google.com/spreadsheets/d/1BXfElECPVRbp-xAxAJHRbeR27-JE43Qn/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
+- 03/04: Definição dos grupos do projeto final
+  - [Grupos](https://docs.google.com/spreadsheets/d/1BXfElECPVRbp-xAxAJHRbeR27-JE43Qn/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
  
 ## Projeto
 ### Objetivo geral
