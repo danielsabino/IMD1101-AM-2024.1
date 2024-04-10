@@ -70,6 +70,10 @@ A nota da primeira unidade será dada por meio de uma única avaliação escrita
   - [Código](https://colab.research.google.com/drive/1Aus2FO3nhh1XOogk8SxGVFkR6MuTRxOy?usp=sharing)
 - 03/04: Definição dos grupos do projeto final
   - [Grupos](https://docs.google.com/spreadsheets/d/1BXqZ5mIu67jl8rseiSKMuEihYazoIWwa/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
+- 08/04: Avaliação de modelos preditivos
+  - [Slides](https://docs.google.com/presentation/d/1BXMSyHfdR6CdBtXSPx2T23e1jmXjuOYs/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
+- 10/04: Redes neurais artificiais
+  - [Slides](https://docs.google.com/presentation/d/1BWgo9EzZHCG0ZHAr6cau6AW0W4YxQGji/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
  
 ## Projeto
 ### Objetivo geral
@@ -139,6 +143,9 @@ O trabalho deve ser apresentado ao final da disciplina.
 - Grupo 10
   - GABRIEL GUILHERME CAVALCANTI DA COSTA
   - RAPHAEL CEZAR SABBADO
+- GRUPO 11
+  - IVISON SANTANA CAU FILHO
+  - JÚLIO CÉSAR BRAGA MEIRELLES
 
 ## Comunicação
 
