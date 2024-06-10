@@ -74,6 +74,9 @@ A nota da primeira unidade será dada por meio de uma única avaliação escrita
   - [Slides](https://docs.google.com/presentation/d/1BXMSyHfdR6CdBtXSPx2T23e1jmXjuOYs/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
 - 10/04: Redes neurais artificiais
   - [Slides](https://docs.google.com/presentation/d/1BWgo9EzZHCG0ZHAr6cau6AW0W4YxQGji/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
+- 20/06: Naive Bayes
+  - [Slides](https://docs.google.com/presentation/d/1-itIyZH-uOwb2ytn3xvEQfuIS8KvKgn_/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
+  - [Código](https://colab.research.google.com/drive/1vySq8PzDpuBgPrCi0KK6qxB_Cox88bOo?usp=sharing)
  
 ## Projeto
 ### Objetivo geral
