@@ -83,6 +83,11 @@ A nota da primeira unidade será dada por meio de uma única avaliação escrita
 - 17-19/06: Redes Convolucionais
   - [Slides](https://docs.google.com/presentation/d/1iz6FXiEgccmrPlOtE1cG-8ZJwI58OUS5/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
   - [Código](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/cnn.ipynb?hl=pt-br) - Tutorial básico do TensorFlow. No fim do arquivo, tem o link para um tutorial mais avançado.
+- 24/06: Aprendizado Não-supervisionado - Conceitos Iniciais. Análise de agrupamento.
+  - [Slides](https://docs.google.com/presentation/d/14eOFy863knh_CS7VYZuDi8UiS-NW-L1y/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
+- 26/06: K-means e Algoritmos Hierárquicos
+  - [Slides](https://docs.google.com/presentation/d/15G_h1ggMi2NulJU2fhJ6qt1o_Fhbqn7b/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
+  - [Código](https://drive.google.com/file/d/15ZMKNaHjSBP_Dj7Wr3far0vO-wFxs9C2/view?usp=sharing)
 
  
 ## Projeto
