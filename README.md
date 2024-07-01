@@ -74,9 +74,16 @@ A nota da primeira unidade será dada por meio de uma única avaliação escrita
   - [Slides](https://docs.google.com/presentation/d/1BXMSyHfdR6CdBtXSPx2T23e1jmXjuOYs/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
 - 10/04: Redes neurais artificiais
   - [Slides](https://docs.google.com/presentation/d/1BWgo9EzZHCG0ZHAr6cau6AW0W4YxQGji/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
-- 20/06: Naive Bayes
+- 10/06: Naive Bayes
   - [Slides](https://docs.google.com/presentation/d/1-itIyZH-uOwb2ytn3xvEQfuIS8KvKgn_/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
   - [Código](https://colab.research.google.com/drive/1vySq8PzDpuBgPrCi0KK6qxB_Cox88bOo?usp=sharing)
+- 12/06: SVM
+  - [Slides](https://docs.google.com/presentation/d/1-VWnsBc9w4fCm_CxyTv8uhkZDE_6vMNt/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
+  - [Código](https://colab.research.google.com/drive/1q3BnLEA3srrER67V6QGqPXkuGb6SN5Q6?usp=sharing)
+- 17-19/06: Redes Convolucionais
+  - [Slides](https://docs.google.com/presentation/d/1iz6FXiEgccmrPlOtE1cG-8ZJwI58OUS5/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
+  - [Código](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/cnn.ipynb?hl=pt-br) - Tutorial básico do TensorFlow. No fim do arquivo, tem o link para um tutorial mais avançado.
+
  
 ## Projeto
 ### Objetivo geral
