@@ -88,7 +88,9 @@ A nota da primeira unidade será dada por meio de uma única avaliação escrita
 - 26/06: K-means e Algoritmos Hierárquicos
   - [Slides](https://docs.google.com/presentation/d/15G_h1ggMi2NulJU2fhJ6qt1o_Fhbqn7b/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
   - [Código](https://drive.google.com/file/d/15ZMKNaHjSBP_Dj7Wr3far0vO-wFxs9C2/view?usp=sharing)
-
+- 03/07: Validação de Agrupamentos
+  - [Slides](https://docs.google.com/presentation/d/1AwhCIIWVXbKtVVcpzI67eg4un-4hKFdC/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
+  - [Código](https://drive.google.com/file/d/1BAp_RkwfzGY2HCnkLKYv0yrKPNg4ZGk0/view?usp=sharing)
  
 ## Projeto
 ### Objetivo geral
