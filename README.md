@@ -91,6 +91,8 @@ A nota da primeira unidade será dada por meio de uma única avaliação escrita
 - 03/07: Validação de Agrupamentos
   - [Slides](https://docs.google.com/presentation/d/1AwhCIIWVXbKtVVcpzI67eg4un-4hKFdC/edit?usp=sharing&ouid=106524382879999074058&rtpof=true&sd=true)
   - [Código](https://drive.google.com/file/d/1BAp_RkwfzGY2HCnkLKYv0yrKPNg4ZGk0/view?usp=sharing)
+- 24/07: Learning with Limited Labels
+  - [Slides](https://drive.google.com/file/d/1Jkk1PNdc8I2MAgbuLPg_42MP-uS00Qbl/view?usp=sharing)
  
 ## Projeto
 ### Objetivo geral
